@@ -58,3 +58,7 @@ A partir del análisis y el modelado predictivo, el proyecto trasciende la métr
 * **Visualización:** Matplotlib, Seaborn
 * **Reproducibilidad:** Semilla determinista configurada (`random_state=42`)
 
+## Documento ejecutivo
+
+📄 [Caso de estudio (PDF)](docs/caso_estudio_churn.pdf)  
+📝 [Caso de estudio (editable)](docs/caso_estudio_churn.docx)
